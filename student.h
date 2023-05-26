@@ -1,4 +1,3 @@
-#include <iostream>
 using namespace std;
 
 class student{
@@ -14,6 +13,7 @@ public:
     int get_age();
  
 };
+
 
 void student::set_name(string n){
   name=n;
